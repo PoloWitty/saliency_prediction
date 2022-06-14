@@ -30,7 +30,12 @@
 ### itti
 第二行为模型输出
 
-![结果](./itti/res.jpg)
+![结果](/itti/res.jpg)
+
+### MDC
+未实现Saliency smoothing，未进行形态学滤波，第二行为模型输出
+![结果](./MDC/res.jpg)
+
 
 ### mlnet
 未调参，未修改，训练19980个batch，第二行为ground truth，第三行为模型输出
